@@ -29,7 +29,7 @@ class _TestAppState extends State<TestApp> {
   bool _showUpdateBtn = false;
   String _localApkFilePath = '';
   String _baseUrl =
-      "https://axatatestapps-hhapi.azurewebsites.net"; // "http://192.168.2.105/AxataHHApi";
+      "service bae url";
   String _sourceApkUrl = "";
   final Dio _dio = Dio();
   @override
